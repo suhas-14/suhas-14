@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Suhas Tata</h1>
 <h3 align="center">A passionate software developer from the UK</h3>
 
-- 🌱 I’m currently learning **Full Stack Development**
+- 🌱 I’m currently learning **Full Stack Development & DevOps**
 
 - 👯 I’m looking to collaborate on **AWS DevOps**
 
