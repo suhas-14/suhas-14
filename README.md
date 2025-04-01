@@ -1,4 +1,5 @@
-![MasterHead](https://user-images.githubusercontent.com/74038190/212741999-016fddbd-617a-4448-8042-0ecf907aea25.gif)
+<img align="center" alt="MasterHead" src="https://user-images.githubusercontent.com/74038190/212741999-016fddbd-617a-4448-8042-0ecf907aea25.gif" style="max-width: 100%; height: auto; display: block; margin: 0 auto;" />
+<!-- ![MasterHead](https://user-images.githubusercontent.com/74038190/212741999-016fddbd-617a-4448-8042-0ecf907aea25.gif) -->
 <h1 align="center">Hi 👋, I'm Suhas Tata Sivakumar</h1>
 <h3 align="center">A passionate software developer</h3>
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif">
